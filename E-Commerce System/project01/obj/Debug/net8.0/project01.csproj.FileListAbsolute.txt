@@ -1,0 +1,14 @@
+C:\Users\tasni\OneDrive\Desktop\Backend\E-Commerce System\project01\bin\Debug\net8.0\project01.exe
+C:\Users\tasni\OneDrive\Desktop\Backend\E-Commerce System\project01\bin\Debug\net8.0\project01.deps.json
+C:\Users\tasni\OneDrive\Desktop\Backend\E-Commerce System\project01\bin\Debug\net8.0\project01.runtimeconfig.json
+C:\Users\tasni\OneDrive\Desktop\Backend\E-Commerce System\project01\bin\Debug\net8.0\project01.dll
+C:\Users\tasni\OneDrive\Desktop\Backend\E-Commerce System\project01\bin\Debug\net8.0\project01.pdb
+C:\Users\tasni\OneDrive\Desktop\Backend\E-Commerce System\project01\obj\Debug\net8.0\project01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tasni\OneDrive\Desktop\Backend\E-Commerce System\project01\obj\Debug\net8.0\project01.AssemblyInfoInputs.cache
+C:\Users\tasni\OneDrive\Desktop\Backend\E-Commerce System\project01\obj\Debug\net8.0\project01.AssemblyInfo.cs
+C:\Users\tasni\OneDrive\Desktop\Backend\E-Commerce System\project01\obj\Debug\net8.0\project01.csproj.CoreCompileInputs.cache
+C:\Users\tasni\OneDrive\Desktop\Backend\E-Commerce System\project01\obj\Debug\net8.0\project01.dll
+C:\Users\tasni\OneDrive\Desktop\Backend\E-Commerce System\project01\obj\Debug\net8.0\refint\project01.dll
+C:\Users\tasni\OneDrive\Desktop\Backend\E-Commerce System\project01\obj\Debug\net8.0\project01.pdb
+C:\Users\tasni\OneDrive\Desktop\Backend\E-Commerce System\project01\obj\Debug\net8.0\project01.genruntimeconfig.cache
+C:\Users\tasni\OneDrive\Desktop\Backend\E-Commerce System\project01\obj\Debug\net8.0\ref\project01.dll
